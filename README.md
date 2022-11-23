@@ -1,5 +1,5 @@
 # tradingview-technical-analysis
-Scrap technical analysis of any markets and exchanges of Tradingview
+Scrap technical analysis of any markets of exchanges
 
 https://www.tradingview.com/symbols/BTCUSDT/technicals/?exchange=BINANCE
 
