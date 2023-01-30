@@ -5,6 +5,7 @@ Scrap technical analysis of any markets of exchanges
 ##  usage
 **node scraper.js**
 
+## response
     {
       oscillators: [
         {
