@@ -1,7 +1,3 @@
-Certainly! Here's a short README file template you can use for your GitHub repository to explain how to use your Node.js script for scraping tradingview technical analytic data:
-
----
-
 # TradingView Technical Analytic Data Scraper
 
 This Node.js script allows you to scrape technical analysis data from TradingView, a popular charting platform for traders and investors. You can use this data for your own analysis or automate trading-related tasks.
@@ -17,13 +13,13 @@ Before using this script, make sure you have the following installed:
 1. Clone or download this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/tradingview-data-scraper.git
+git clone https://github.com/devzarghami/tradingview-technical-analysis.git
 ```
 
 2. Navigate to the project directory.
 
 ```bash
-cd tradingview-data-scraper
+cd tradingview-technical-analysis
 ```
 
 3. Install the required dependencies.
