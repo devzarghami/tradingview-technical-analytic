@@ -13,13 +13,13 @@ Before using this script, make sure you have the following installed:
 1. Clone or download this repository to your local machine.
 
 ```bash
-git clone https://github.com/devzarghami/tradingview-technical-analysis.git
+git clone https://github.com/devzarghami/tradingview-technical-analytic.git
 ```
 
 2. Navigate to the project directory.
 
 ```bash
-cd tradingview-technical-analysis
+cd tradingview-technical-analytic
 ```
 
 3. Install the required dependencies.
@@ -38,7 +38,7 @@ The script will start scraping the technical analysis data from the specified Tr
 
 ## Data Output
 
-![tradingview-technical-analysis](https://github.com/devzarghami/tradingview-technical-analysis/blob/main/tradingview-technical-analysis-compare.png)
+![tradingview-technical-analysis](https://github.com/devzarghami/tradingview-technical-analytic/blob/main/tradingview-technical-analysis-compare.png)
 
 ```bash
 {
@@ -73,6 +73,6 @@ Happy scraping and trading!
 
 https://www.tradingview.com/symbols/BTCUSDT/technicals/?exchange=BINANCE
 
-![tradingview-technical-analysis](https://github.com/devzarghami/tradingview-technical-analysis/blob/main/tradingview-technical-analysis.png)
+![tradingview-technical-analysis](https://github.com/devzarghami/tradingview-technical-analytic/blob/main/tradingview-technical-analysis.png)
 
 
