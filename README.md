@@ -40,7 +40,7 @@ The script will start scraping the technical analysis data from the specified Tr
 
 ![tradingview-technical-analysis](https://github.com/devzarghami/tradingview-technical-analysis/blob/main/tradingview-technical-analysis-compare.png)
 
-```json
+```bash
 {
       oscillators: [
         {
@@ -64,14 +64,6 @@ The script will start scraping the technical analysis data from the specified Tr
 ## Customization
 
 You can customize the script to scrape additional data or modify its behavior according to your requirements. The code is well-documented and organized in `scraper.js`. Feel free to explore and make changes as needed.
-
-## Disclaimer
-
-Please be aware that scraping data from websites may be subject to terms of service and legal restrictions. Make sure to review TradingView's terms of use and comply with their policies when using this script.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
